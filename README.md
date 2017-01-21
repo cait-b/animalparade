@@ -1,9 +1,15 @@
 # animalparade
 A fan site for the Wii game Harvest Moon: Animal Parade
 
-Goals:
+# Goals:
 
-For practice purposes and study, I will be creating my own version of Fogu.com's website guide for Harvest Moon: Animal Parade. This will be an ongoing review project.
+Recreating Fogu.com's website guide for Harvest Moon: Animal Parade!
 
-(Using information from Fogu
-http://fogu.com/hm/animal_parade/ )
+##### (Using information from Fogu
+##### http://fogu.com/hm/animal_parade/ )
+
+# TODO: 
+add jumbotron to index page with new screenshots
+add working calendar to calendar page
+    have villager birthdays link to their page
+create sql databases for crops, mining, etc
