@@ -8,6 +8,7 @@
         <script src="js/jquery-3.1.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <!-- /Bootstrap -->
+        <link href="css/style.css" rel="stylesheet">
     </head>
     <body>
 <nav class="navbar navbar-default">
