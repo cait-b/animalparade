@@ -9,11 +9,10 @@ Recreating Fogu.com's website guide for Harvest Moon: Animal Parade!
 ##### http://fogu.com/hm/animal_parade/ )
 
 # TODO: 
-add jumbotron to index page with new screenshots
-
 add working calendar to calendar page
 
     have villager birthdays link to their page
     
 create sql databases for crops, mining, etc
+replace tables with php function
 
