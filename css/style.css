@@ -8,3 +8,11 @@
     opacity: 0.75;
     text-shadow: black 0.3em 0.3em 0.3em;
 }
+
+/*
+Stuff that hasn't worked for hr styling:
+adding a class
+making the tag more specific
+adding !important
+calling hr very rude
+*/
